@@ -19,12 +19,14 @@ body {
     border-radius: 20px;
     justify-content: center;
     align-items: center;
+    height: fit-content;
     width: 33%;
 }
 .panel {
     background-color: rgb(83, 83, 83);
     border-radius: 5px;
     margin: 15px;
+    height: fit-content;
 }
 .numbers {
     background-color: rgb(158, 158, 158);
